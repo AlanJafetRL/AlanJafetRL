@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi , I'm Alan Jafet </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### About me:
-- 🎯 Full-stack developer.
+- 🎯 Full-Stack developer.
 - 👉 I'm looking to learn more and expand my knowledge in Design Patterns and Artificial Intelligence.
-- 🔭 I'm looking to grow as a full-stack developer by learning new technologies and improving my problem-solving abilities.
+- 🔭 I'm looking to grow as a Full-Stack developer by learning new technologies and improving my problem-solving abilities.
 - 🎓 I studied Mechatronics Engineering at UPIIZ - Unidad Profesional Interdisciplinaria de Ingeniería Campus Zacatecas, IPN.
 - 💡 My Mechatronics Engineering background introduced me to software development, sparking my interest and driving me to improve my skills in this area.
 - ☕ A coffee lover, but my barista skills could use some work.
